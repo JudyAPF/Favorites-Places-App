@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758426601865",
+    "project_id": "flores-favorite-places",
+    "storage_bucket": "flores-favorite-places.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758426601865:android:ed14d72c382d44344b3958",
+        "android_client_info": {
+          "package_name": "com.example.flores_favorite_places"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIbaZ9-wghKS0OlpPCamQaja_JSLtG5do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
